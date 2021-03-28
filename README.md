@@ -32,7 +32,7 @@ Send the request to [Nick Mikhailovsky](mailto:nickm@ntr.ai)
 Take down: We will comply to legitimate requests by removing the affected sources from the corpus.
 
 # Commercial requests
-Commercial requests related to larger datasets and other languages, as well as production quality ASR models, should be sent to into@ntr.ai
+Commercial requests related to larger datasets and other languages, as well as production quality ASR models, should be sent to info@ntr.ai
 
 The data is available at the link:
 https://drive.google.com/drive/folders/18ouZuEaBSLLXZ9t5iv5J11QGFOGTTWde?usp=sharing
