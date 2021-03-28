@@ -16,7 +16,17 @@ Each utterance has been first transcribed by an open-source ASR. The transcripti
 
 For each human transcriber, a transcription pipeline is built by the transcription system. For the quality control purposes, 5% of the utterances were taken from an existing spoken corpus (Mozilla Common Voice)
 
-Each utterance has been transcribed by two human transcribers. In the case where the relative WER of transcriptions was over 5%, the third transcriber resolved the conflict. 
+Each utterance has been transcribed by two human transcribers. In the case where the relative WER of transcriptions was over 5%, the third transcriber resolved the conflict.
+
+# Normalized Alphabets
+The alphabets have been normalized as per the table below:
+Language |	Alphabet
+---------|----------
+French	| azertyuiopqsdfghjklmùwxcvbné'èçàêôâûœ
+Spanish	| abcdefghijklmnñopqrstuvwxyzáéíóúüé
+Arabic |	أنت سيرإلىمحةاقثعهذفبئضودجصكخشزطءغظآؤ
+Turkish	| abcçdefgğhıijklmnoöprsştuüvyz
+
 
 # License and copyright
 The MediaSpeech dataset is distributed under the Creative Commons Attribution 4.0 International License. The copyright remains with the original owners of the video.
