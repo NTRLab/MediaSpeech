@@ -1,6 +1,7 @@
 # MediaSpeech
 MediaSpeech is a media speech dataset (you might have guessed this) built with the purpose of testing Automated Speech Recognition (ASR) systems performance. The dataset consists of short speech segments automatically extracted from media videos available on YouTube and manually transcribed, with some pre- and post-processing.
 The dataset contains 10 hours of speech for each language provided. This release contains audio datasets in French, Arabic, Turkish and Spanish, and is a part of a larger private dataset. 
+Additional details can be found in the article: https://arxiv.org/abs/2103.16193
 
 # Why
 MediaSpeech can be used to test ASR models and systems that work well with real-world media speech data, or as a seed labelled dataset for semisupervised learning approaches. Baseline Quartznet models are provided for each language
