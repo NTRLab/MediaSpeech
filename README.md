@@ -1,6 +1,6 @@
 # MediaSpeech
 MediaSpeech is a media speech dataset (you might have guessed this) built with the purpose of testing Automated Speech Recognition (ASR) systems performance. The dataset consists of short speech segments automatically extracted from media videos available on YouTube and manually transcribed, with some pre- and post-processing.
-The dataset contains 10 hours of speech for each language provided. This release contains audio datasets in French, Arabic, Turkish and Spanish, and is a part of a larger private dataset. The data is available courtesy of SLR: https://www.openslr.org/108/
+The dataset contains 10 hours of speech for each language provided. This release contains audio datasets in French, Arabic, Turkish and Spanish, and is a part of a larger private dataset. The data is available courtesy of OpenSLR: https://www.openslr.org/108/
 
 Additional details can be found in the article: https://arxiv.org/abs/2103.16193
 
@@ -53,7 +53,7 @@ Notice: Should you consider that our data contains material that is owned by you
 - Clearly identify the copyrighted work claimed to be infringed.
 - Clearly identify the material that is claimed to be infringing and information reasonably sufficient to allow us to locate the material.
 
-Send the request to [Nick Mikhailovsky](mailto:nickm@ntr.ai)
+Send the request to info@ntr.ai
 
 Take down: We will comply to legitimate requests by removing the affected sources from the corpus.
 
